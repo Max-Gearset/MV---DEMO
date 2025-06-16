@@ -34,7 +34,7 @@ public with sharing class GearsetClaytonCoverageDemo {
     /**
      * Inner class declared.
      */
-    private class InsecureHelper {
+    private inherited sharing class InsecureHelper {
         public List<Account> getAllAccounts() {
             // Ignores user-level sharing - Unbound SOQL
             String query = 'SELECT Id, Name FROM Account WHERE Name = \'' + String.escapeSingleQuotes(System.currentPageReference().getParameters().get('accountName')) + '\'';
