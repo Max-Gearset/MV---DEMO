@@ -1,0 +1,11 @@
+{
+  "Object": "Pricebook2",
+  "Fields": {
+    "Description": "Vehicle Price Book for 2023 catalogue",
+    "GearsetDisplayName": "2023 Vehicle Price Book",
+    "GearsetExternalId__c": "XAILjLRA00000nDs10",
+    "IsActive": "false",
+    "Name": "2023 Vehicle Price Book"
+  },
+  "References": []
+}
