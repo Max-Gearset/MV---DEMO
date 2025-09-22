@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+<?xml version="1.0" encoding="utf-8"?><PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
     <description>Permissions for Funding User</description>
     <hasActivationRequired>false</hasActivationRequired>
     <label>Funding User Permissions</label>
@@ -11,6 +10,11 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>Account.Customer_Since__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Account.Expansion_Business__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <objectPermissions>
