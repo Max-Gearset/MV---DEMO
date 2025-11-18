@@ -1,4 +1,4 @@
-public class EventNotificationService {
+public inherited sharing class EventNotificationService {
 
     // Sends notifications for new events
     public static void sendNewEventNotifications() {
