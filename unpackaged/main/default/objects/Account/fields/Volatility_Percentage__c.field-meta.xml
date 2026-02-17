@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Marketing_Attribution_Score__c</fullName>
+    <fullName>Volatility_Percentage__c</fullName>
     <externalId>false</externalId>
-    <label>Marketing Attribution Score</label>
-    <length>89</length>
+    <label>Volatility Percentage</label>
+    <precision>18</precision>
     <required>false</required>
+    <scale>0</scale>
     <trackFeedHistory>false</trackFeedHistory>
-    <type>Text</type>
-    <unique>false</unique>
+    <type>Percent</type>
 </CustomField>
