@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Annual_Revenue_Range__c</fullName>
+    <fullName>Churn_Risk_Identified_MV__c</fullName>
     <externalId>false</externalId>
-    <label>Annual Revenue Range</label>
-    <length>20</length>
+    <label>Churn Risk Identified MV</label>
+    <length>56</length>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
     <type>Text</type>
