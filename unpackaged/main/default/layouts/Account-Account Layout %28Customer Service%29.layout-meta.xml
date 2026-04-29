@@ -33,6 +33,14 @@
                 <behavior>Edit</behavior>
                 <field>Associated_Email__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Churn_Risk_Identified_MV__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Type</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
@@ -70,14 +78,6 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Rating</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>Type</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>Churn_Risk_Identified_MV__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
@@ -421,7 +421,7 @@
     <showRunAssignmentRulesCheckbox>false</showRunAssignmentRulesCheckbox>
     <showSubmitAndAttachButton>false</showSubmitAndAttachButton>
     <summaryLayout>
-        <masterLabel>00haj00000XUxJ2</masterLabel>
+        <masterLabel>00hak00000VCETZ</masterLabel>
         <sizeX>4</sizeX>
         <sizeY>0</sizeY>
         <summaryLayoutStyle>Default</summaryLayoutStyle>
