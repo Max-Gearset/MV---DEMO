@@ -4,6 +4,11 @@
     <label>Funding User Permissions</label>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Account.Acceptable_Business_Venture__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Account.Checkbox_Field__c</field>
         <readable>true</readable>
     </fieldPermissions>
